@@ -7,7 +7,7 @@ title: Code for OKC
 subtitle:
 description:
 author: Matt Chandler
-email:
+email: mkchandler@gmail.com
 language:
 
 # URL
@@ -85,6 +85,7 @@ exclude_generator:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: github
   repository: https://github.com/codeforokc/codeforokc.git
   branch: gh-pages
+  type: github
+
