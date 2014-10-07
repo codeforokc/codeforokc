@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Code for OKC
 subtitle:
 description:
-author: John Doe
+author: Matt Chandler
 email:
 language:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://codeforokc.github.io
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
@@ -85,4 +85,6 @@ exclude_generator:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: github
+  repo: https://github.com/codeforokc/codeforokc
+  branch: master
