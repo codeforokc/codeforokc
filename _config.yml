@@ -86,10 +86,5 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
-<<<<<<< HEAD
   repo: https://github.com/codeforokc/codeforokc.git
   branch: gh-pages
-=======
-  repo: https://github.com/codeforokc/codeforokc
-  branch: master
->>>>>>> parent of f578fb1... Fix the repository url
