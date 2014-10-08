@@ -12,7 +12,7 @@ language:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://codeforokc.github.io/
+url: http://codeforokc.org/
 root: /
 permalink: :title/
 tag_dir: tags
