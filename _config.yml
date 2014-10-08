@@ -81,6 +81,8 @@ disqus_shortname:
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
 theme: apollo
 exclude_generator:
+plugins:
+- hexo-generator-cname
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
