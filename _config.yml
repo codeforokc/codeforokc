@@ -12,9 +12,9 @@ language:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://codeforokc.github.io
+url: http://codeforokc.github.io/
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
@@ -79,7 +79,7 @@ disqus_shortname:
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
-theme: landscape
+theme: apollo
 exclude_generator:
 
 # Deployment
@@ -88,4 +88,3 @@ deploy:
   repository: https://github.com/codeforokc/codeforokc.git
   branch: gh-pages
   type: github
-
