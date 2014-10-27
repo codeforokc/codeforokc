@@ -1,0 +1,15 @@
+# Header
+menu:
+  Home: /
+  Meetings: http://www.meetup.com/Code-for-OKC/
+  Forum: https://groups.google.com/d/forum/code-for-okc/
+  Archives: /archives
+rss: /atom.xml
+
+# Content
+excerpt_link: Read More
+fancybox: false
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.png
