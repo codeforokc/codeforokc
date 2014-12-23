@@ -2,7 +2,7 @@
 menu:
   Home: /
   Meetings: http://www.meetup.com/Code-for-OKC/
-  Forum: https://groups.google.com/d/forum/code-for-okc/
+  Forum: https://github.com/codeforokc/discussions
   Archives: /archives
 rss: /atom.xml
 
