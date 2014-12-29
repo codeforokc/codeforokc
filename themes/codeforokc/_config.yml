@@ -1,9 +1,12 @@
 # Header
 menu:
   Home: /
-  Meetings: http://www.meetup.com/Code-for-OKC/
-  Forum: https://github.com/codeforokc/discussions
-  Archives: /archives
+  Projects: /projects
+  #Meetings: /meetings
+  #Forum: https://github.com/codeforokc/discussions/issues
+  #Chat: https://gitter.im/codeforokc/discussions
+  #Join Us: /join-us
+  #Archives: /archives
 rss: /atom.xml
 
 # Content

@@ -81,6 +81,7 @@ disqus_shortname:
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
 theme: codeforokc
 exclude_generator:
+- index
 plugins:
 - hexo-generator-cname
 
