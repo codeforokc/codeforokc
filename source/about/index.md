@@ -1,8 +1,6 @@
-title: about
+title: About Code for OKC
 date: 2014-12-31 18:54:33
 ---
-
-##About CodeforOKC
 
 Code for OKC is committed to developing a sustainable civic technology community in collaboration with local government and community partners.
 
