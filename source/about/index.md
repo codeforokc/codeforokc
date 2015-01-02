@@ -9,6 +9,6 @@ We build open source technology and organize a network of people dedicated to ma
 
 ##Organizers & Volunteers
 
-*Matt Chandler - Captain, leading the OKC brigade
-*Catherine Lippert - Storyteller, communicatorx
-*Jeremy Green - Delivery Lead, point for projects
+* Matt Chandler - Captain, leading the OKC brigade
+* Catherine Lippert - Storyteller, communicator
+* Jeremy Green - Delivery Lead, point for projects
