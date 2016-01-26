@@ -18,7 +18,7 @@ Some of our [projects](/projects) have dedicated repos on GitHub and will have t
 
 ## Chat
 
-We also have a [chat room](https://gitter.im/codeforokc/discussions) where we can have real-time discussions when there are lots of details to ge hammered out.
+We also have a [Slack room](http://slack.codeforokc.org) where we can have real-time discussions when there are lots of details to get hammered out.
 
 ## Code of Conduct
 
