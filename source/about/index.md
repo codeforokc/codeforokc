@@ -13,13 +13,9 @@ We build open source technology and organize a network of people dedicated to ma
 
 ## Contact
 
-You can contact us via e-mail or Twitter:
+You can contact us via e-mail, Twitter, or Slack:
 
 * <a href="mailto:codeforokc@gmail.com">codeforokc@gmail.com</a>
 * <a href="https://twitter.com/codeforokc">@codeforokc</a>
-
-Another option is to use our discussion area on GitHub or our chat room on Gitter:
-
-* <a href="https://github.com/codeforokc/discussions/issues">Discussions</a>
-* <a href="https://gitter.im/codeforokc/discussions">Gitter Chat Room</a>
+* <a href="http://slack.codeforokc.org">Slack</a>
 
