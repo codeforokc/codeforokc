@@ -90,4 +90,4 @@ plugins:
 deploy:
   repository: https://github.com/codeforokc/codeforokc.git
   branch: gh-pages
-  type: github
+  type: git
