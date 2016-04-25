@@ -10,6 +10,8 @@ Code for OKC meets on the 4th Monday of each month at [Prototek](http://prototek
 
 Please see our [Meetup Page](http://www.meetup.com/Code-for-OKC/) for additional times and details, and to RSVP to let us know that you're coming.
 
+On the second Wednesday of each month at 8pm we will host a virtual meeting on Slack.
+
 ## GitHub
 
 Our main [discussion forum](https://github.com/codeforokc/discussions/issues) is hosted with GitHub. This is our primary means of collaboration and the best place to get up to date information about what's happening.
