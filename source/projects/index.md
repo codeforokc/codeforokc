@@ -9,7 +9,7 @@ Here are a few ongoing projects you can check out and start participating in.
 ### [Open Budget OKC](https://github.com/codeforokc/okc-budget-data)
 
 **Status:** Development
-**Source:** [https://github.com/codeforokc/okc-budget-data](https://github.com/codeforokc/okc-budget-data)
+**Source:** [https://github.com/codeforokc/openbudgetokc](https://github.com/codeforokc/openbudgetokc)
 **Project Lead:** Scott Maslar ([twitter](https://twitter.com/scottmaslar)/[github](https://github.com/mascott))
 
 We are working on ways to provide clearer and deeper understanding of the OKC city budget.
