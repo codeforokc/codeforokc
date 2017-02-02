@@ -6,7 +6,7 @@ Code for OKC is an all volunteer group and we'd love to have you participate in 
 
 ## Meetings
 
-Code for OKC meets on the 4th Monday of each month at [Prototek](http://prototekokc.com/).
+Code for OKC meets on the 4th Monday of each month at [StarSpace46](http://<www.starspace46".com/).
 
 Please see our [Meetup Page](http://www.meetup.com/Code-for-OKC/) for additional times and details, and to RSVP to let us know that you're coming.
 
