@@ -1,6 +1,6 @@
 # codeforokc.org
 
-This is the static site for codeforokc.org.
+This is the static site for [codeforokc.org](http://codeforokc.org).
 
 ## Developers
 
