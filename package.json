@@ -1,22 +1,14 @@
 {
-  "name": "codeforokc-new",
-  "version": "0.0.0",
+  "name": "codeforokc",
+  "version": "1.1.0",
   "private": true,
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
-  "dependencies": {
-    "body-parser": "~1.15.2",
-    "cookie-parser": "~1.4.3",
-    "debug": "~2.2.0",
-    "express": "~4.14.0",
-    "jade": "~1.11.0",
-    "logfmt": "^1.2.0",
-    "morgan": "~1.7.0",
-    "serve-favicon": "~2.3.0"
-  },
   "devDependencies": {
+    "express": "~4.14.0",
+    "logfmt": "^1.2.0",
     "nodemon": "^1.11.0"
   }
 }
