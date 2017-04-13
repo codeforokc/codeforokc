@@ -6,9 +6,19 @@
 -->
 <html>
 	<head>
-		<title>Miniport by HTML5 UP</title>
+		<title>Code for OKC</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="description" content="Code for OKC is an all volunteer group and we’d love to have you participate in any way that you can. Code for OKC meets on the 4th Monday of each month at StarSpace46."/>
+	    <meta property="og:type" content="website" />
+	    <meta property="og:title" content="Code for OKC" />
+	    <meta property="og:url" content="http://codeforokc.org/">
+	    <meta property="og:site_name" content="Code for OKC"/>
+	    <meta property="og:description" content="Code for OKC is an all volunteer group and we’d love to have you participate in any way that you can. Code for OKC meets on the 4th Monday of each month at StarSpace46." />
+	    <meta property="og:updated_time" content="2017-04-12T09:45:28.000Z" />
+	    <meta name="twitter:card" content="summary" />
+	    <meta name="twitter:title" content="Code for OKC" />
+	    <meta name="twitter:description" content="Code for OKC is an all volunteer group and we’d love to have you participate in any way that you can. Code for OKC meets on the 4th Monday of each month at StarSpace46." />
 		<!--[if lte IE 8]><script src="js/miniport/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="/css/miniport/main.css" />
 		<link rel="stylesheet" href="/css/miniport/additional.css" />
