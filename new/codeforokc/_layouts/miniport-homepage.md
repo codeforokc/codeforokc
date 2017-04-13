@@ -9,8 +9,9 @@
 		<title>Miniport by HTML5 UP</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<!--[if lte IE 8]><script src="js/miniport/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="/css/miniport/main.css" />
+		<link rel="stylesheet" href="/css/miniport/additional.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="/css/miniport/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="/css/miniport/ie9.css" /><![endif]-->
 	</head>
@@ -23,22 +24,28 @@
 			{% include miniport/home.md %}			
 
 		<!-- Work -->
-			{% include miniport/work.md %}			
+			{% include miniport/meetings.md %}			
 
-		<!-- Portfolio -->
-			{% include miniport/portfolio.md %}			
+		<!-- Projects -->
+			{% include miniport/projects.md %}			
 
-		<!-- Contact -->
-			{% include miniport/contact.md %}			
+		<!-- About -->
+			{% include miniport/about.md %}		
+
+		<!-- Code of Conduct -->
+			{% include miniport/conduct.md %}
+
+		<!--- Footer --->			
+			{% include miniport/footer.md %}
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/skel-viewport.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-			<script src="assets/js/main.js"></script>
+			<script src="js/miniport/jquery.min.js"></script>
+			<script src="js/miniport/jquery.scrolly.min.js"></script>
+			<script src="js/miniport/skel.min.js"></script>
+			<script src="js/miniport/skel-viewport.min.js"></script>
+			<script src="js/miniport/util.js"></script>
+			<!--[if lte IE 8]><script src="js/miniport/ie/respond.min.js"></script><![endif]-->
+			<script src="js/miniport/main.js"></script>
 
 	</body>
 </html>
