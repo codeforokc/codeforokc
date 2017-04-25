@@ -1,0 +1,48 @@
+/*additional miniport style added to make the site BEAUTIFUL */
+
+@media screen and (min-width: 737px) {
+	#nav ul.brand{float:left;}
+}
+
+
+@media screen and (max-width: 736px) {
+	#nav ul.brand{display:none;}
+}
+
+	/*#nav ul.brand li{border-bottom: 2px solid white;}*/
+
+	#nav ul.brand a {
+				-moz-transition: background-color .2s ease-in-out;
+				-webkit-transition: background-color .2s ease-in-out;
+				-ms-transition: background-color .2s ease-in-out;
+				transition: background-color .2s ease-in-out;
+				padding: 0.2em 1em 0.2em 1em;
+				margin: 0.6em 0.2em 0.6em 0.2em;
+				font-weight: 600;
+				border-radius: 8px;
+				color: #fff;
+				text-decoration: underline;
+			}
+
+
+#about li{
+	text-align: left;
+}
+
+
+
+.wrapper.footer-style {
+			background-color: #303030;
+			color: #999;
+			text-shadow: -1px -1px 0px #181818;
+			padding: 2em 0 2em 0;
+		}
+
+			.wrapper.footer-style h1, .wrapper.footer-style h2, .wrapper.footer-style h3, .wrapper.footer-style h4, .wrapper.footer-style h5, .wrapper.footer-style h6 {
+				color: #fff;
+			}
+
+
+.text-left, .text-left *{
+	text-align: left;
+}
