@@ -22,6 +22,7 @@
 		<!--[if lte IE 8]><script src="js/miniport/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="/css/miniport/main.css" />
 		<link rel="stylesheet" href="/css/miniport/additional.css" />
+		<link rel="stylesheet" href="/css/icomoon-style.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="/css/miniport/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="/css/miniport/ie9.css" /><![endif]-->
 	</head>
